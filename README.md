@@ -1643,6 +1643,12 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/PrefectHQ/marvin/">github</a> | <a href="https://askmarvin.ai/">website</a></p>
 </div>
 
+### Melaya
+
+- Website: [melaya.org](https://melaya.org)
+- Description: Drag-drop agentic platform with 1,200+ scoped tools, 100+ subagent templates, 16 prebuilt crews, and a 7-persona Trading Crew (Macro, TA, Quant, Sentiment, Risk, Portfolio, Execution) wired to a Rust trading engine at 420 ns per bar across 65 CEX and 6 prediction markets. HITL on every write. Dry-run mode end to end on live market data before flipping any live key.
+- Use cases: Multi-agent trading, agentic workflow orchestration, MCP-compatible tool composition, public benchmarks
+
 ### mem0
 <div><a href="https://github.com/mem0ai/mem0"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/mem0ai/mem0"><img src="https://img.shields.io/github/stars/mem0ai/mem0?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 37,574 stars (Updated: 2025-07-30)</p>
